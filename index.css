@@ -1,0 +1,13 @@
+body {
+    background: cornsilk
+}
+
+p {
+    font-size: large;
+}
+
+.small-italic-text {
+    font-size: 0.4em;
+    font-weight: 100;
+    font-style: italic;
+}
